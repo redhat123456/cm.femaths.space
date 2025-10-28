@@ -1,6 +1,6 @@
 ---
 title: 'CityLearn v1.0 - An OpenAI Gym Environment for Demand Response with Deep Reinforcement Learning'
-authors: [zqjjj]
+authors: [zqqqj]
 tags: [RL]
 date: 2025-10-27
 ---
